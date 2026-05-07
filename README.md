@@ -1,1 +1,1 @@
-# liric-search
+# yt-search
